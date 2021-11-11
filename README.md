@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Federico Varela from Uruguay
 - 👀 I’m interested in Web Programmer as well as Big Data.
-- 🌱 I’m currently learning Fullstack Developer.I have taken an introductory Python course.
+- 🌱 I’m currently learning Fullstack Developer.I have taken an introductory Python course too.
 - 💞️ I’m looking to collaborate on software development companies for design Websites and manage Big Data.
 
 
