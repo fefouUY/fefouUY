@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Federico Varela from Uruguay
 - 👀 I’m interested in Web Programmer as well as Big Data.
-- 🌱 I’m currently learning HTML,CS/Node.js-Express,Javascript and React.I have taken an introductory Python course.
+- 🌱 I’m currently learning Frontend and Backend.I have taken an introductory Python course.
 - 💞️ I’m looking to collaborate on software development companies especially in Frontend HTML/CSS.
 
 
